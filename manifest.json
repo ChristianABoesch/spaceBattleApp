@@ -1,0 +1,20 @@
+{
+    "name": "Battle The Starships",
+    "short_name": "Ship Battle",
+    "icons": [
+        {
+            "src": "images/guitardescendingfromspace.jpeg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#28074a",
+    "theme_color": "#bd4de5"
+}
